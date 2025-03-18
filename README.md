@@ -25,3 +25,13 @@ Ensure you have the following installed on your system:
    
 ## If I had more time
 then I would definitely learn Dockerfiles, how they work, how to integrate them and must have used them in order to set-up the project.
+
+## I am adding a few screenshots of the UI below 
+
+![img.png](img.png)
+
+![img_1.png](img_1.png)
+
+![img_2.png](img_2.png)
+
+![img_3.png](img_3.png)
