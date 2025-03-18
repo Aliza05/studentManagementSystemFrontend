@@ -13,8 +13,7 @@ Ensure you have the following installed on your system:
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your-repo/vue-project.git
-   cd vue-project
+   git clone https://github.com/Aliza05/studentManagementSystemFrontend.git
 
 2. **Install libraries**
     ```sh
@@ -23,3 +22,6 @@ Ensure you have the following installed on your system:
 3. **Run the project**
     ```sh
     npm run dev
+   
+## If I had more time
+then I would definitely learn Dockerfiles, how they work, how to integrate them and must have used them in order to set-up the project.
