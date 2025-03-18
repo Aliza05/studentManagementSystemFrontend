@@ -5,6 +5,7 @@ Below I am adding link to backend repository.
 If I would be given a chance I will learn Docker and integrate it too.
 
 ## For this challenge I have used Django Rest Framework and Vue.js.
+There is a README file in backend repository too, explaining the backend setup.
 
 # Student Management System Frontend
 
