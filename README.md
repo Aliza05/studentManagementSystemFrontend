@@ -1,3 +1,11 @@
+## Backend Project Git Repository URL
+since I don't know how to use Docker that's why I created separate git repositories for frontend and backend.
+Below I am adding link to backend repository.
+`https://github.com/Aliza05/studentManagementSystemBackend.git`
+If I would be given a chance I will learn Docker and integrate it too.
+
+## For this challenge I have used Django Rest Framework and Vue.js.
+
 # Student Management System Frontend
 
 This guide walks you through setting up and running the Vue.js project.
